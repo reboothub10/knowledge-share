@@ -16,11 +16,11 @@ Each entry is meant to reflect learning, teaching, and growing as a developer.
 ## 📂 Repository Structure
 
 knowledge-share/
-├── projects/ # Hands-on coding projects
-├── presentations/ # Slides, demos, and supporting material
-├── tutorials/ # Guides and walkthroughs
-├── resources/ # Additional learning or reference material
-└── README.md # You're here!
+- projects/ #Hands-on coding projects
+- presentations/ #Slides, demos, and supporting material
+- tutorials/ # Guides and walkthroughs
+- resources/ # Additional learning or reference material
+- README.md # You're here!
 
 
 ## 🧠 Topics Covered
@@ -29,7 +29,7 @@ knowledge-share/
 - System Design & Architecture
 - DevOps & Tooling
 - Data Structures & Algorithms
-- Open Source Contributions
+- QA/testing
 - And more...
 
 ## 🛠️ Tech Stack Highlights
@@ -42,6 +42,7 @@ Depending on the project, the following technologies may be featured:
 - Docker / CI-CD
 - GitHub Actions
 - Markdown & GitHub Pages
+- etc
 
 ## 🔍 How to Use This Repository
 
